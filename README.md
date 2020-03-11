@@ -1,4 +1,4 @@
-# DeepDrive: Developing an ADAS stack on CARLA’s simulated environment
+# DeepDrive AD: Developing an ADAS stack on CARLA’s simulated environment
 
 CVI Group: Anand Gokhale, Sai Vinay, Sashank Kaushik, Arjun Menon Vadakkeveedu, Meenakshi CS, Shania Mitra
 
